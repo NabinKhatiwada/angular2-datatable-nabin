@@ -33,7 +33,6 @@
   "bugs": {
     "url": "https://github.com/mariuszfoltak/angular2-datatable/issues"
   },
-  "homepage": "https://github.com/mariuszfoltak/angular2-datatable#readme",
   "devDependencies": {
     "@angular/core": "^2.1.0",
     "@angular/compiler": "^2.1.0",
