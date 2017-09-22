@@ -1,6 +1,6 @@
 {
   "name": "angular2-datatable-nabin",
-  "version": "0.6.0",
+  "version": "0.1.0",
   "description": "DataTable component for Angular2 framework",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NabinKhatiwada/angular2-datatable-nabin.git"
+    "url": "git+https://github.com/mariuszfoltak/angular2-datatable.git"
   },
   "keywords": [
     "angular",
@@ -28,11 +28,12 @@
     "sort",
     "sorting"
   ],
-  "author": "nabinkumarkhatiwada@gmail.com",
+  "author": "mariuszfoltak@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mariuszfoltak/angular2-datatable/issues"
   },
+  "homepage": "https://github.com/mariuszfoltak/angular2-datatable#readme",
   "devDependencies": {
     "@angular/core": "^2.1.0",
     "@angular/compiler": "^2.1.0",
